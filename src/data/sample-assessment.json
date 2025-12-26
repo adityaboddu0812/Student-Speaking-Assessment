@@ -1,0 +1,29 @@
+{
+  "studentName": "Student Name",
+  "overallScore": 7,
+  "maxScore": 9,
+  "skills": [
+    {
+      "skill": "Pronunciation",
+      "score": 7.5,
+      "maxScore": 9
+    },
+    {
+      "skill": "Fluency",
+      "score": 6.5,
+      "maxScore": 9
+    },
+    {
+      "skill": "Vocabulary",
+      "score": 7,
+      "maxScore": 9
+    },
+    {
+      "skill": "Grammar",
+      "score": 7,
+      "maxScore": 9
+    }
+  ],
+  "feedback": "The candidate demonstrates a competent command of spoken English with generally clear pronunciation and adequate fluency. Vocabulary usage is appropriate for the topics discussed, though there is room for incorporating more sophisticated lexical choices. Grammatical structures are largely accurate with occasional minor errors that do not impede communication. To improve, the candidate should focus on reducing hesitation markers and expanding their range of idiomatic expressions."
+}
+
