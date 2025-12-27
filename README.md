@@ -186,13 +186,6 @@ src/
     └── utils.ts                  # Utility functions
 ```
 
-## 🎯 Key Features
-
-- ✅ **Dynamic Feedback** - Automatically generated based on scores
-- ✅ **Type-Safe** - Full TypeScript support
-- ✅ **Responsive Design** - Works on all screen sizes
-- ✅ **Clean Code** - Simple, readable logic suitable for learning
-- ✅ **No Backend Required** - All data stored locally
 
 ## 📝 Notes for Development
 
@@ -201,10 +194,4 @@ src/
 - The application uses React Router for navigation (currently single page)
 - Components are reusable and follow React best practices
 
-## 📄 License
 
-MIT
-
----
-
-**Built for internship assignment** - Simple, clean, and educational codebase.
